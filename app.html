@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Task Manager</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Create a New Task</h1>
+        <form id="task-form">
+            <label for="account-plan-name">Account Plan Name:</label>
+            <input type="text" id="account-plan-name" required>
+
+            <label for="account-name">Account Name:</label>
+            <input type="text" id="account-name" required>
+
+            <label for="date-of-visit">Date of Visit:</label>
+            <input type="date" id="date-of-visit" required>
+
+            <label for="meeting-status">Meeting Status:</label>
+            <select id="meeting-status" required>
+                <option value="scheduled">Scheduled</option>
+                <option value="done">Done</option>
+                <option value="not-done">Not Done</option>
+            </select>
+
+            <label for="contact-person-name">Contact Person Name:</label>
+            <input type="text" id="contact-person-name" required>
+
+            <label for="email-address">Email Address:</label>
+            <input type="email" id="email-address" required>
+
+            <label for="meeting-notes">Meeting Notes:</label>
+            <textarea id="meeting-notes" rows="4" required></textarea>
+
+            <label for="next-meeting-date">Next Meeting Date:</label>
+            <input type="date" id="next-meeting-date" required>
+
+            <button type="submit">Create Task</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
