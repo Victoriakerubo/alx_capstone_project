@@ -1,69 +1,80 @@
 # alx_capstone_project
-# Capstone Project: Web Development Portfolio
 
-![Project Banner](link_to_project_banner_image)
+# Victoria Kerubo Gichaba - Personal Portfolio Website
+
+[Website Preview](link-to-website-image.png)
 
 # Introduction
 
 -This is my Capstone Project for the "Intro to Software Engineering" course.
 -In this project, I will have the opportunity to apply all the knowledge and skills I have acquired over the past 15 weeks and showcase my expertise in web development. 
 
-# Project Objective
+# Project Overview:
 
--To create a comprehensive web development portfolio that demonstrates my skills, projects, and accomplishments. 
--The portfolio will serve as a showcase of my abilities and be a valuable asset in my web development journey. 
-=By completing the project, I will have a portfolio that reflects my progress, expertise, and readiness to take on more challenging web development projects.
+-This project aims to create a personal portfolio website for Victoria Kerubo Gichaba. 
+-The purpose of the website is to showcase my professional background, skills, and a collection of projects I have worked on. 
+-This portfolio will serve as a central hub for anyone looking to learn more about me and my work.
 
-#Technologies Required
+# Features and Functionality:
 
-- HTML
-- CSS
-- Python
-- Flask
-- MySQL
-- JavaScript
-- API
-- Git
+About Me:
 
-# Project Guidelines
+-A section that provides a brief introduction to Victoria Kerubo Gichaba, highlighting my professional background and goals.
 
-- Choose one project option from the list provided.
-- Plan my project by defining the features, functionality, and design aspects.
-- Implement the project using the programming languages and tools I have learnt throughout the course.
-- Ensure my project follows best practices in terms of code organization, readability, and documentation.
-- Test my project thoroughly to identify and fix any bugs or issues.
-- Create a professional and visually appealing user interface for a great user experience.
-- Showcase my project's functionality and features effectively in your portfolio.
+Skills:
 
+-This section will list my key skills, which include Sales, Account Management, Relationship Building, Market Insights, and more.
 
-# Project Requisites
-- Project Overview
-- Features and Functionality
-- Technologies Used
-- Screenshots or Demo (if available)
-- Roadmap and Future Enhancements
-- Contact Information
+Projects:
 
-# Project Workflow
+-This section will display my projects with brief descriptions, images, and links to live demos or source code repositories. 
+-This section will highlight my work and demonstrate my technical abilities.
 
-![Project Workflow](link_to_workflow_image)
+Contact Information:
 
-**Project Workflow:** Describe the steps and processes involved in your project's development. Use flowcharts to visualize the workflow clearly.
+-Visitors will find my contact information, including email, LinkedIn profile, and GitHub repository.
 
-# Design Prototype
+#Technologies Used:
 
-![Project Prototype](link_to_prototype_image)
--Create a low or high fidelity prototype for your web application using tools like draw.io (for low fidelity) or Figma (for high fidelity). 
--Ensure that the prototype represents the project's aesthetics and design.
+Front-end:
 
-# Roadmap and Future Enhancements
+#HTML 
+#CSS
+#JavaScript
 
--Outline any future plans or potential improvements for your project. 
--Additional features, performance optimizations, or scalability considerations.
+Hosting:
 
-## Contact Information
--Name: Victoria Kerubo
--Email: victoriakerubog@gmail.com
--GitHub:https://github.com/Victoriakerubo
--LinkedIn: www.linkedin.com/in/victoriakerubo
+-GitHub Pages
+
+# Screenshots and/or Demo:
+
+-[Project Demo](link-to-project-demo.png)
+
+You can view the live website [here](link-to-live-website).
+
+# Roadmap and Future Enhancements:
+
+Blog Section:
+
+-Adding a blog section where I can write about industry-related topics, sharing my knowledge and insights.
+
+Improved Project Page:
+
+-Enhance the project showcase with more detailed descriptions, technologies used, and the challenges faced during the projects.
+
+Integration with Social Media:
+
+-Include links to other social media profiles and networks to increase my online presence.
+
+#Contact Information:
+
+Name:Victoria Kerubo Gichaba
+
+Email:victoriakerubog@gmail.com
+
+LinkedIn Profile: www.linkedin.com/in/victoriakerubo
+
+GitHub Profile: https://github.com/Victoriakerubo
+
+Location: Nairobi, Kenya
 
