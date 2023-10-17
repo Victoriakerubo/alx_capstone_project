@@ -9,8 +9,8 @@ body{
     color: white;
 }
 #header{
-    width: 500px;
-    height: 500px;
+    width:100%;
+    height: 100vh;
     background-image: url(images/background.png);
     background-size: cover;
     background-position: center;
@@ -25,3 +25,19 @@ nav{
     justify-content: space-between;
     flex-wrap: wrap;
 }
+
+.logo{
+    width: 140px;
+
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+
+
+
+
+
