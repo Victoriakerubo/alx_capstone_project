@@ -9,8 +9,8 @@ body{
     color: white;
 }
 #header{
-    width: 100%;
-    height: 100vh;
+    width: 500px;
+    height: 500px;
     background-image: url(images/background.png);
     background-size: cover;
     background-position: center;
