@@ -29,7 +29,7 @@ nav{
 }
 
 .logo{
-    width: 140px;  
+    width: 80px;  
 
 }
 nav ul li{
@@ -41,9 +41,29 @@ nav ul li a{
     color: white;
     text-decoration: none;
     font-size: 18px;
+    font-weight: bold;
     position: relative;
 }
-nav ul li a::after
+nav ul li a:hover{
+    color:red;
+}
+.detel{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+ .detel h1{
+    font-size: 50px;
+    color: white;
+    margin-bottom: 20px;
+ }   
+span{
+    color: red;
+}
+.detel p{
+    color:white;
+    line-height: 22px;
+
+
 
 
 
