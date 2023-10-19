@@ -73,6 +73,16 @@ span{
     display: inline-block;
     font-weight: bold;
 }
+/*------------about me------*/
+#about{
+    color: red;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
 
 
