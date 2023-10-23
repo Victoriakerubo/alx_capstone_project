@@ -2,7 +2,7 @@
 
 # Victoria Kerubo Gichaba - Personal Portfolio Website
 
-[Website Preview](link-to-website-image.png)
+# Website Preview - C:\Users\Vk\Desktop\ALX PROJECTS\ALX-SE-PROJECT\alx_capstone_project\images\Website Preview.png
 
 # Introduction
 
@@ -49,7 +49,7 @@ Hosting:
 
 -[Project Demo](link-to-project-demo.png)
 
-You can view the live website [here](link-to-live-website).
+You can view the live website here (https://github.com/Victoriakerubo/alx_capstone_project/blob/Master/index.html).
 
 # Roadmap and Future Enhancements:
 
