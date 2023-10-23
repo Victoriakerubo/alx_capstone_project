@@ -195,6 +195,7 @@ form .btn2{
     color: red;
     margin-top: -10px;
     display: block;
+    font-size: medium;
 }
 /* Responsive design using media queries */
 @media (max-width: 768px) {
