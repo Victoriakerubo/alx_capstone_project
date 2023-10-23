@@ -40,7 +40,6 @@ Front-end:
 
 #HTML 
 #CSS
-#JavaScript
 
 Hosting:
 
