@@ -178,9 +178,9 @@ form .btn2{
 
 .copyright{
     width: 100%;
-    text-align: center;
+    text-align: left;
     padding: 25px 0;
-    background: red;
+    background: white;
     font-weight: 300;
     margin-top: 20px;
 }
