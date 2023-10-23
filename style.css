@@ -80,7 +80,6 @@ span{
 .row{
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap; 
 }
 .about-col-1{
     color: red; 
@@ -91,7 +90,7 @@ span{
 .about-col-2{
     color: white;
     font-size: larger;
-    flex-basis: 35%;
+    flex-basis: 65%;
     
 
 
