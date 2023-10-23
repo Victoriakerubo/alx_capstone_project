@@ -91,12 +91,26 @@ span{
     color: white;
     font-size: larger;
     flex-basis: 65%;
-    
-
-
-
+}
+/*------------Skills------*/
+#Skills{
+    color: white;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.skills-col-1{
+    color: red; 
+    font-size: x-large;
+    flex-basis: 35%;
 }
 
+.skills-col-2{
+    color: white;
+    font-size: larger;
+    flex-basis: 65%;
+}
 
 
 
