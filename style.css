@@ -182,15 +182,36 @@ form .btn2{
 
 .copyright{
     width: 100%;
-    text-align: left;
+    text-align: center;
     padding: 25px 0;
     background: white;
     font-weight: 300;
     margin-top: 20px;
 }
-/*--------------responsive---------*/
-@media only screen and (max-width: 600px){
-
+/* Responsive design using media queries */
+@media (max-width: 768px) {
+    nav ul {
+        text-align: center;
+    }
+    
+    nav li {
+        display: block;
+        margin-bottom: 10px;
+    }
 }
+
+@media (max-width: 480px) {
+    header {
+        font-size: 24px;
+    }
+    
+    nav li {
+        margin: 0;
+    }
+}
+
+
+
+
 
 
