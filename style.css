@@ -184,11 +184,11 @@ form .btn2{
     cursor: pointer;
 
     #copyright {
-        text-align: center;
+        text-align: left;
     }
     
     .my copyright p {
-        color: red;
+        color:white;
     }
     
 #msg{
