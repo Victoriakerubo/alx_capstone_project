@@ -112,7 +112,25 @@ span{
     flex-basis: 65%;
 }
 
+/*------------Projects------*/
+#Projects{
+    color: white;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.projects-col-1{
+    color: red; 
+    font-size: x-large;
+    flex-basis: 35%;
+}
 
+.projects-col-2{
+    color: white;
+    font-size: larger;
+    flex-basis: 65%;
+}
 
   
 
