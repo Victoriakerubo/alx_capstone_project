@@ -47,7 +47,7 @@ Hosting:
 
 # Screenshots and/or Demo:
 
--[Project Demo](link-to-project-demo.png)
+Project Demo(https://drive.google.com/file/d/1pTO0mmANEpi3jSOyNcxfuKA9WVQZ0gSZ/view?usp=sharing)
 
 You can view the live website here (https://github.com/Victoriakerubo/alx_capstone_project/blob/Master/index.html).
 
