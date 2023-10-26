@@ -41,6 +41,8 @@ Front-end:
 #HTML 
 #CSS
 
+#Javascript
+
 Hosting:
 
 -GitHub Pages
