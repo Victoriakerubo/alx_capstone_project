@@ -10,8 +10,7 @@ html{
 body{
     background: black;
     color: white;
-
- /*------------header------*/   
+ /*-------------Header Section---------*/
 }
 #header{
     width:100%;
@@ -212,10 +211,12 @@ form .btn2{
 @media (max-width: 480px) {
     header {
         font-size: 24px;
+        text-align: center;
     }
     
     nav li {
         margin: 0;
+        font-display: block;
     }
 }
 
